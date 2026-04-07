@@ -54,32 +54,7 @@ Identified major trends and patterns in the dataset
 Highlighted key factors impacting performance
 Provided data-driven insights for decision-making
 
-(You can add 2–3 specific insights here to make it stronger)
 
-How to Run the Project
-Prerequisites
-Python (3.x)
-PostgreSQL installed
-Power BI Desktop
-Steps
-
-Clone the repository:
-
-git clone <your-repo-link>
-cd <project-folder>
-
-Install required Python libraries:
-
-pip install pandas numpy matplotlib seaborn psycopg2
-
-Run the Python script/notebook:
-
-jupyter notebook
-
-or
-
-python script.py
-Load cleaned data into PostgreSQL and execute SQL queries
 Open Power BI file (.pbix) to view dashboard
 📌 Conclusion
 
